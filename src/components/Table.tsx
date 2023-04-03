@@ -46,7 +46,7 @@ function Table() {
                   <p className="text-sm">{item.building}</p>
                 </div>
                 <div className="w-[14vw] pl-2">
-                  <p className="text-sm">{item.acces}</p>
+                  <p className="text-sm">{item.access}</p>
                 </div>
                 <div className="w-[11vw] pl-2">
                   <p className="text-sm">{item.reading}</p>
